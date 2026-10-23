@@ -23,7 +23,7 @@ PARAMETER_DEMOS = [
         "description":(
             "Limits the maximum number of tokens the model can generate"
         ),
-        "params": {"max_tokens": 100},
+        "params": {"num_predict": 100},
         "prompt": "Explain me the Langchain "
     },
     {
