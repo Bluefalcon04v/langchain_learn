@@ -1,0 +1,9 @@
+Concept             	        Remember it as
+
+Chain of Thought	            Break a problem into steps
+Chat Prompt Template	        Structure a conversation
+Few-Shot Prompting	            Give multiple examples
+One-Shot Prompting          	Give one example
+Prompt Template             	Reusable prompt with placeholders
+Partial Prompt                  AI completes unfinished text
+Message Prompting               Give AI a message or instruction
