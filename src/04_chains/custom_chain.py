@@ -94,7 +94,5 @@ def main():
     print(result["linkedin_post"])
     print_separator()
     
-        
 if __name__ == "__main__":
     main()
-        
