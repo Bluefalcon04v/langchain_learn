@@ -7,3 +7,5 @@ Deep Learning uses neural networks with multiple layers to solve complex problem
 Generative AI is capable of creating new content including text, images, audio and code.
 
 Large Language Models (LLMs) such as GPT and Gemini are examples of Generative AI systems.
+
+my name is sam, and i work in the khanglobalstudies, in my company we have hoilday on diwali 
